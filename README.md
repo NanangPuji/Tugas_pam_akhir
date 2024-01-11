@@ -3,6 +3,8 @@ Aplikasi ini diciptakan untuk memberikan kemudahan kepada pengguna dalam mengelo
 Fokus utama aplikasi ini adalah memberikan kenyamanan kepada pengguna dalam proses pemesanan.
 Aplikasi ini menggunakan penyimpanan Firebase untuk menyimpan data pemesanan, memberikan keandalan dan ketersediaan informasi.
 Dengan demikian, aplikasi ini diharapkan dapat memberikan solusi praktis bagi pengguna yang ingin melakukan pemesanan Voucher Paket Data dan Pulsa tanpa meninggalkan kenyamanan rumah mereka.
+![Use Case](https://github.com/NanangPuji/Tugas_pam_akhir/assets/114916478/b25defc1-e9b0-4dea-84dd-ab023696c329)
+
 
 
 sign up : pengguna dapat mendaftarkan akun baru dengan menyediakan informasi yang diperlukan, seperti username, email, dan password.
